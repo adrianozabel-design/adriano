@@ -1,0 +1,2 @@
+# adriano
+jogo negociações 
